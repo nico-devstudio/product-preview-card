@@ -13,6 +13,4 @@ This is my solution to a Frontend Mentor challenge.
 * Clean UI
 * Hover & active button
 
-## Live Demo
 
-(Add your GitHub Pages link here later)
