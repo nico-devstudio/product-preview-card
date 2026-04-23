@@ -1,2 +1,18 @@
-# product-preview-card
-Frontend Mentor challenge: Responsive product preview card using HTML, CSS Grid and Flexbox
+# Product Preview Card
+
+This is my solution to a Frontend Mentor challenge.
+
+## Built with
+
+* HTML
+* CSS (Grid & Flexbox)
+
+## Features
+
+* Responsive layout
+* Clean UI
+* Hover & active button
+
+## Live Demo
+
+(Add your GitHub Pages link here later)
